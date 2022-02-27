@@ -1,0 +1,10 @@
+﻿  Statki.cpp
+  gra.cpp
+  gracz.cpp
+D:\Mati\Moje Programy\PO\Lab5\Statki\Statki\gracz.cpp(57,15): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  Generowanie kodu...
+D:\Mati\Moje Programy\PO\Lab5\Statki\Statki\gracz.cpp(1474): warning C4715: "gracz::WarunkiJY”: niewszystkie ścieżki kodu zwracają wartość
+D:\Mati\Moje Programy\PO\Lab5\Statki\Statki\gracz.cpp(1946): warning C4715: "gracz::WarunkiJX”: niewszystkie ścieżki kodu zwracają wartość
+D:\Mati\Moje Programy\PO\Lab5\Statki\Statki\gracz.cpp(2162): warning C4715: "gracz::Warunki”: niewszystkie ścieżki kodu zwracają wartość
+D:\Mati\Moje Programy\PO\Lab5\Statki\Statki\gra.cpp(666): warning C4715: "gra::CzyZatopiony”: niewszystkie ścieżki kodu zwracają wartość
+  Statki.vcxproj -> D:\Mati\Moje Programy\PO\Lab5\Statki\Debug\Statki.exe
